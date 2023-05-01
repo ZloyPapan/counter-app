@@ -1,0 +1,26 @@
+@import "../styles/button.css";
+
+
+body {
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  background-color: black;
+}
+
+.container {
+  width: 1150px;
+  margin: auto;
+
+}
+
+.counter {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 126px;
+  font-size: 32px;
+  line-height: 44px;
+  color: aliceblue;
+}
